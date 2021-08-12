@@ -1,6 +1,3 @@
-# pv_cell_characterization
-Silicon polycrystalline photovoltaic cell data set
+This repository contains the data used in the paper "Characterization of a polycrystalline photovoltaic cell using artificial neural networks"
 
-This data set was generated synthetically in order to train a neural network. The neural network may be able to characterize a photovoltaic cell (know the parameters of the one-diode model) from the manufacturer's data sheet.
-
-Two assumptions are taken into account in this data set: the shunt resistance is ideal and the diode ideality constant is equal to 1.3
+https://doi.org/10.1016/j.solener.2019.12.012
